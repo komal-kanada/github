@@ -8,9 +8,12 @@ module A
 end
 
 
+<<<<<<< HEAD
 gfjgtkjhghgdhd
 vfhgdfshgfjkuytrdhjk
 
+=======
+>>>>>>> origin/radha
 class Sample1
 extend A
    def fun1
@@ -18,15 +21,19 @@ extend A
    end
 end
 
+<<<<<<< HEAD
 class data < Sample1
+=======
+class Sample2 < Sample1
+>>>>>>> origin/radha
  def fun1
     puts "class sample2"
 	super
    end
 end
+<<<<<<< HEAD
 uyagsgdug 
 koaml 
-kanada
-Sample.new.fun1
+kanadaSample.new.fun1
 
 
