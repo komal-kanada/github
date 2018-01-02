@@ -15,13 +15,15 @@ extend A
    end
 end
 
-class Sample2 < Sample1
+class data < Sample1
  def fun1
     puts "class sample2"
 	super
    end
 end
-
+uyagsgdug 
+koaml 
+kanada
 Sample.new.fun1
 
 
