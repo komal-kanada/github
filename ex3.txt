@@ -8,6 +8,9 @@ module A
 end
 
 
+gfjgtkjhghgdhd
+vfhgdfshgfjkuytrdhjk
+
 class Sample1
 extend A
    def fun1
